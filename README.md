@@ -47,4 +47,4 @@
 
 ## 👥 Участники
 
-![Contributors](https://contrib.rocks/image?repo=Emmnia/belki)
+![Contributors](https://contrib.rocks/image?repo=Emmnia/Belki-Recycling-Startup)
